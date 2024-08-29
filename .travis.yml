@@ -21,3 +21,4 @@ after_success:
   - docker push skjdaniel/multi-nginx
   - docker push skjdaniel/multi-server
   - docker push skjdaniel/multi-worker
+  
